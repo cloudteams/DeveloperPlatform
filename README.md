@@ -25,4 +25,5 @@ You can also test the CloudTeams team platform by installing it on your own serv
 
 Sabine Kolvenbach
 Fraunhofer FIT, Schloss Birlinghoven, D-53754 Sankt Augustin, Germany
+
 Email: Sabine.Kolvenbach@fit.fraunhofer.de
