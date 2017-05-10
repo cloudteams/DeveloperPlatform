@@ -1,5 +1,4 @@
-# team-platform
-CloudTeams Team Platform
+# CloudTeams Team Platform
 
 BSCW (c) 1995-2017 Fraunhofer FIT and OrbiTeam Software GmbH & Co. KG,
 cf. BSCW_COPYRIGHT (bscw@fit.fraunhofer.de, info@orbiteam.de)
@@ -26,4 +25,4 @@ You can also test the CloudTeams team platform by installing it on your own serv
 
 Sabine Kolvenbach
 Fraunhofer FIT, Schloss Birlinghoven, D-53754 Sankt Augustin, Germany
-E-mail:  Sabine.Kolvenbach@fit.fraunhofer.de
+Email: Sabine.Kolvenbach@fit.fraunhofer.de
