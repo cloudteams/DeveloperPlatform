@@ -1,16 +1,12 @@
-# CloudTeams Team Platform
+# CloudTeams Developer Platform
 
-BSCW (c) 1995-2017 Fraunhofer FIT and OrbiTeam Software GmbH & Co. KG,
-cf. BSCW_COPYRIGHT (bscw@fit.fraunhofer.de, info@orbiteam.de)
+## About CloudTeams Developer Platform
 
+The CloudTeams developer platform supports the workflow of the CloudTeams methodology for teams. It  offers advanced and leightweight tools for managing software projects, collaborating in software teams, and running campaigns with customers. Moreover it integrates the persona builder, requirements builder, and the business model canvas tool implemented in the ideation platform (https://github.com/cloudteams/IdeationPlatform). By connecting software projects to third-party software development, testing and deployment tools (https://github.com/cloudteams/DeveloperServices) it seamlessly integrates environments that software projects use in their software development process.
 
-## About CloudTeams Team Platform
+The CloudTeams developer platform is implemented as an extension to the proprietary groupware system BSCW (http://www.bscw.de/start/en/), which is the underlying document management and collaboration platform.
 
-The CloudTeams team platform is implemented as an extension to BSCW (http://www.bscw.de/start/en/), which is the underlying document management and collaboration platform.
-
-The CloudTeams team platform supports the workflow of the CloudTeams methodology for teams for managing software projects, collaborating in software teams, and running campaigns with customers. Moreover it provides interfaces that enable the customer platform and the persona builder to request project resources from and to deliver customer feedback to the team platform. By connecting to software development, testing and deployment tools it seamlessly integrates environments that software projects use in their software development process.
-
-We offer you two options to evaluate the team platform at no cost:
+We offer you two options to evaluate the developer platform at no cost:
   - Public CloudTeams platform, the free-trial service (requires only 2 minutes to set up and run).
   - Installation and test on an in-house server and then enjoy a free 90-day trial licence.
 
@@ -19,7 +15,7 @@ Interested users can register on the public CloudTeams platform, create projects
 Visit https://cloudteams.eu and register as a developer. After entering your email address, name, and organization, follow the instructions in the confirmation email to complete the registration.
 
 ## Installation and test on an in-house server
-You can also test the CloudTeams team platform by installing it on your own server. 
+You can also test the CloudTeams developer platform by installing it on your own server. 
 
 ## Contact:
 
